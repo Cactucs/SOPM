@@ -1,0 +1,10 @@
+{
+    "name": "cactucs/SOPM",
+    "description": "SOPM is a simple PHP entity-oriented database library which use MongoDB to save data.",
+    "authors": [
+        {
+            "name": "Vojta Staněk",
+            "email": "stanekv01@gmail.com"
+        }
+    ]
+}
