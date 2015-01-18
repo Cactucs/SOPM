@@ -66,11 +66,11 @@ In the result we have an array of all Johns (represented by their entities). If 
 The second argument is options :
 
   
-   | Key | Value | Description |
-   | --- | ----- | ----------- |
-   | `sort` | array (key = property; value = 1/-1) | sorts: 1 = ascending; 2 = descending |
-   | `offset` | int | Number of entities to skip at start |
-   | `limit` | int | Max. number of entities to return. |
+| Key | Value | Description |
+| --- | ----- | ----------- |
+| `sort` | array (key = property; value = 1/-1) | sorts: 1 = ascending; 2 = descending |
+| `offset` | int | Number of entities to skip at start |
+| `limit` | int | Max. number of entities to return. |
     
 #### Get data from entity.
 
